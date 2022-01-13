@@ -13,16 +13,16 @@
                     }
                     
                 </style>
-				<header style="text-align:center; background: #000000; color: #ffffff;padding:1rem 0 0 0">
+			<header style="text-align:center; background: #03203C; color: #ffffff;padding:1rem 0 0 1rem">
                     <h1>Employee Management System</h1>
                     <div style="padding:0 0 1rem 0">
                         <a style="padding:1rem" href="#">Home</a>
                         <a style="padding:1rem" href="#">Employees</a>
-                        <a style="padding:1rem" href="#">Services</a>
                         <a style="padding:1rem" href="#">Contact Us</a>
-                        <a style="padding:1rem" href="#">Help</a>
                     </div>
                 </header>
+                			
+              
 				<table border="2" align="center">
 					<tr>
 						<th>ID</th>
@@ -72,6 +72,16 @@
 		</html>
 </xsl:template> 
 </xsl:stylesheet>
+
+
+
+
+
+
+
+
+
+
 
 
 
